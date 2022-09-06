@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oJPWby1qATHMKQwC0qFYhnUedyD8Ny0S+S1J/99bu3m7KYB+CH2cwQB+Yg1C8Z68MD8zj4FQ2EeU37E1oOl5YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a846910\\source\\repos\\Sample\\Sample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a846910\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\a846910\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
